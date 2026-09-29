@@ -9,7 +9,7 @@ Part 2: Leakage-aware pipeline. Finds that 723 of the 1,025 rows are duplicates,
 
 # How to install
 
-1. Install Python 3.9 or newer from [Python.org](https://www.python.org?utm_source=chatgpt.com).
+1. Install Python 3.9 or newer from [Python.org](https://www.python.org?).
 2. Download or clone this repository.
 3. Open a terminal in the repository folder and run:
 
